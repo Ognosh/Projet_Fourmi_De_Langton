@@ -1,1 +1,6 @@
-# Projet_Fourmi_De_Langton
+BI 03
+
+JAMES David
+JEOUIT Nourelhouda
+LEROUX BESSON Maxime
+MORANA Loris
